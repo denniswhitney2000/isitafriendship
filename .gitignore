@@ -1,0 +1,9 @@
+venv/*
+images/*
+registry.csv
+labels.csv
+.DS_Store
+data/*
+saved_model/*
+tmp/*
+*.zip
