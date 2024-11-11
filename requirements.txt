@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+keras
+opencv-python
+matplotlib
+python-dotenv
+scipy
+seaborn
