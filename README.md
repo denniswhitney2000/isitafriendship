@@ -1,6 +1,6 @@
 # Friendship Sloop Detector Model
 
-##Overview
+## Overview
 
 This repository contains a Jupyter notebook and a Streamlit app that demonstrate how to build, train, and deploy a deep learning model to detect Friendship Sloops in images. The model is based on the ResNet50 architecture and uses data augmentation techniques to improve generalization. The notebook includes steps for data preprocessing, model definition, training, and evaluation, while the Python script provides a Streamlit-based web application for model inference.
 
