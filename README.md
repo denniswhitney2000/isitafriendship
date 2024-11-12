@@ -17,6 +17,17 @@ Before running the notebook or the Python script, ensure you have the following 
 - Streamlit
 - scipy
 
+## Required Directory Structre
+
+```bash
+├── test
+│   ├── friendship_sloop
+│   └── no_friendship_sloop
+└── train
+    ├── friendship_sloop
+    └── no_friendship_sloop
+```
+
 ## Setup Instructions
 
 ### 1. Clone the Repository
@@ -38,8 +49,6 @@ pip install -r requirements.txt
 Create a .env file in the root directory and define the following environment variables:
 ```bash
 DATA_DIR=path/to/your/data
-BATCH_SIZE=32
-NUM_EPOCHS=10
 MODEL_PATH=path/to/save/model
 ```
 
